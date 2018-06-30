@@ -1,5 +1,4 @@
 # testntouch
-1st comin-in rep to checkout the functionalities of github, especially repositiories
-As an "advanced newbie" i had need to build a 1st anchor point in this system.
-In the moment i have nothing to offer or to publish but will learn -- also with / in this platform.
-See me later.
+Principles of branches / logical pathes for editing version are clear and seemed me known as my own thougts.
+The idea of commit notes ist a practible thing - no further step in to a table with admin data about a version entry.
+!boatman, close-haul the sails; !pilot: upwind 2 points backboards;
